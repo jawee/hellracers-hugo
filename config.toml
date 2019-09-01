@@ -1,4 +1,22 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hellracers"
 theme = "hellracers"
+
+[menu]
+    [[menu.main]]
+        identifier = "News"
+        name = "News"
+        title = "blog section"
+        url = "/news/"
+        weight = -120
+    
+    [[menu.main]]
+        identifier = "drivers"
+        name = "Drivers"
+        title = "blog section"
+        url = "/drivers/"
+        weight = -110
+
+
+    
