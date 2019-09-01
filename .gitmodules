@@ -1,0 +1,3 @@
+[submodule "themes/hellracers"]
+	path = themes/hellracers
+	url = https://github.com/jawee/hugo-hellracers-theme.git
