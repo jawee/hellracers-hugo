@@ -18,5 +18,46 @@ theme = "hellracers"
         url = "/drivers/"
         weight = -110
 
+    [[menu.main]]
+        identifiers = "who-we-are"
+        name = "Who we are"
+        title = "Who we are"
+        url = "/who-we-are/"
+        weight = -100
+    
+    [[menu.contact]]
+        name = "Email"
+        url = "mailto:hellracerssweden@gmail.com" 
+
+    [[menu.social]]
+        name = "Facebook"
+        url = "https://facebook.com"
+        weight = -110
+    
+    [[menu.social]]
+        name = "Twitter"
+        url = "https://twitter.com"
+        weight = -100
+
+    [[menu.social]]
+        name = "Instagram"
+        url = "https://instagram.com"
+        weight = -90
+
+    [[menu.partners]]
+        name = "Pixeldust"
+        url = "https://pixeldust.se"
+        weight = -110
+
+    [[menu.partners]]
+        name = "Craigs Setup Shop"
+        url = "https://craigsetupshop.co.uk"
+        weight = -100
+
+    [[menu.partners]]
+        name = "Barncancerfonden"
+        url = "https://barncancerfonden.se"
+        weight = -90
+
 
     
