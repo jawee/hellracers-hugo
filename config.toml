@@ -24,6 +24,13 @@ theme = "hellracers"
         title = "Who we are"
         url = "/who-we-are/"
         weight = -100
+
+    [[menu.main]]
+        identifiers = "results"
+        name = "Results"
+        title = "Results"
+        url = "/results/"
+        weight = -90
     
     [[menu.contact]]
         name = "Email"
@@ -41,9 +48,9 @@ theme = "hellracers"
 
     [[menu.social]]
         name = "Instagram"
-        url = "https://instagram.com"
+        url = "https://instagram.com/hellracers_sweden"
         weight = -90
-
+    
     [[menu.partners]]
         name = "Pixeldust"
         url = "https://pixeldust.se"

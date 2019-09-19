@@ -8,6 +8,8 @@ draft: false
 
 ## Spectatae quantus
 
+![alt text](/news/news-2/S7R1_WATKINS_GLEN_2.png)
+
 Lorem markdownum urimur mortales, absunt solita tum liquor hominum tutam erat
 **mediis inania**. Superos latumque, deorum me deiectam idcirco. Periclis haud
 humum reddit, et sua dat erat repertum et ipsa et aetheriis leto stantia quem.
