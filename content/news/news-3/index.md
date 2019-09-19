@@ -1,14 +1,11 @@
 ---
-title: "Test"
-date: 2019-09-01T18:51:10+02:00
+title: "Super title for news 3"
+date: 2019-09-19T17:03:06+02:00
 draft: false
+image: /news/news-3/SKISSBILD3.png
 ---
 
-# Renovamine venit suspirat peto
-
-## Spectatae quantus
-
-![alt text](/news/news-2/S7R1_WATKINS_GLEN_2.png)
+![alt text](/news/news-3/AUDI_RS3_LMS_1.png)
 
 Lorem markdownum urimur mortales, absunt solita tum liquor hominum tutam erat
 **mediis inania**. Superos latumque, deorum me deiectam idcirco. Periclis haud
@@ -30,6 +27,8 @@ Obruor movit inania posita, cum sic patris aret corpore, crinem mea.
 
 ## Arce ciet matrum vicina
 
+![alt text](/news/news-3/DGFX2019_R1_1.png)
+
 Cessant depositura tamen inroravit matre saeviat in exurunt refers cuncta
 tenebrosa. [Ausi](http://condar.org/) arcus posterior amando volubilitas cupido;
 illa parvum [Iason](http://www.spercheides.com/), gratulor; cum. Illi robore
@@ -49,4 +48,6 @@ Rostro ferarum In oculos senserat et altum finibus, Pedasus, certe in anguis
 propiora ebore. Sed locis quae aliena *amictus* et vocabitur *suarum* ad
 dedistis Titania vincant tempora matris, saxo, eodem! Aras mens viam ceram
 *perdet nostro nequiquam*, plus colla decipit frontem.
+
+
 

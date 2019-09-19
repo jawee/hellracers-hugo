@@ -1,12 +1,10 @@
 ---
-title: "Test"
-date: 2019-08-30T18:51:10+02:00
+title: "Super title for news 2"
+date: 2019-09-01T18:51:10+02:00
 draft: false
+image: /news/news-2/SKISSBILD2.png
 ---
-
-# Renovamine venit suspirat peto
-
-## Spectatae quantus
+![alt text](/news/news-2/S7R1_WATKINS_GLEN_2.png)
 
 Lorem markdownum urimur mortales, absunt solita tum liquor hominum tutam erat
 **mediis inania**. Superos latumque, deorum me deiectam idcirco. Periclis haud

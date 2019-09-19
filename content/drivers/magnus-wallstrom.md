@@ -1,5 +1,5 @@
 ---
 name: Magnus Wallström
-image: https://via.placeholder.com/150
+image: /drivers/magnus-wallstrom.jpg
 irating: 3999
 ---

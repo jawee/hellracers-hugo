@@ -1,6 +1,6 @@
 ---
 name: Magnus Asp
-image: https://via.placeholder.com/150
+image: /drivers/magnus-asp.jpeg
 irating: 4000
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.
