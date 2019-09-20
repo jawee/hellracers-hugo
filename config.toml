@@ -19,10 +19,10 @@ theme = "hellracers"
         weight = -110
 
     [[menu.main]]
-        identifiers = "who-we-are"
-        name = "Who we are"
-        title = "Who we are"
-        url = "/who-we-are/"
+        identifiers = "who-are-we"
+        name = "Who are we?"
+        title = "Who are we?"
+        url = "/who-are-we/"
         weight = -100
 
     [[menu.main]]

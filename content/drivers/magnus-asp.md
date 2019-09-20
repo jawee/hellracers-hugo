@@ -1,6 +1,6 @@
 ---
 name: Magnus Asp
-image: /drivers/magnus-asp.jpeg
+image: /drivers/magnus-wallstrom.png
 irating: 4000
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.

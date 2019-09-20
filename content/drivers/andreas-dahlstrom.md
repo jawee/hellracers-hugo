@@ -1,6 +1,6 @@
 ---
 name: Andreas Dahlström
-image: /drivers/andreas-dahlstrom.jpg
+image: /drivers/magnus-wallstrom.png
 irating: 4000
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.

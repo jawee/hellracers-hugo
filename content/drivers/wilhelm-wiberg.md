@@ -1,6 +1,6 @@
 ---
 name: Wilhelm Wiberg
-image: /drivers/wilhelm-wiberg.jpg
+image: /drivers/magnus-wallstrom.png
 irating: 4000
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.

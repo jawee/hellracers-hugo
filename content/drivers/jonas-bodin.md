@@ -1,5 +1,5 @@
 ---
 name: Jonas Bodin
-image: https://via.placeholder.com/150
+image: /drivers/magnus-wallstrom.png
 irating: 6000
 ---

@@ -5,7 +5,7 @@ draft: false
 image: /news/news-3/SKISSBILD3.png
 ---
 
-![alt text](/news/news-3/AUDI_RS3_LMS_1.png)
+![alt text](/news/news-3/SKISSBILD3.png)
 
 Lorem markdownum urimur mortales, absunt solita tum liquor hominum tutam erat
 **mediis inania**. Superos latumque, deorum me deiectam idcirco. Periclis haud

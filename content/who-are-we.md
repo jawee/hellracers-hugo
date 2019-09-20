@@ -1,5 +1,5 @@
 ---
-title: "Who We Are"
+title: "Who are we?"
 date: 2019-09-03T17:39:06+02:00
 draft: false
 ---
