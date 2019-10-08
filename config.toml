@@ -55,16 +55,21 @@ theme = "hellracers"
         name = "Pixeldust"
         url = "https://pixeldust.se"
         weight = -110
+    
+    [[menu.partners]]
+        name = "Tershine"
+        url = "https://tershine.com"
+        weight = -100
 
     [[menu.partners]]
         name = "Craigs Setup Shop"
         url = "https://craigsetupshop.co.uk"
-        weight = -100
+        weight = -90
 
     [[menu.partners]]
         name = "Barncancerfonden"
         url = "https://barncancerfonden.se"
-        weight = -90
+        weight = -80
 
 
     

@@ -1,6 +1,6 @@
 ---
 name: Marcus Simonsson
-image: /drivers/magnus-wallstrom.png
+image: /drivers/marcus-simonsson.jpg
 irating: 4000
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.

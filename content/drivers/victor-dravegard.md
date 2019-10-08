@@ -1,6 +1,6 @@
 ---
 name: Victor Dravegård
-image: /drivers/magnus-wallstrom.png
+image: /drivers/forare_utan_bild.jpg
 irating: 4000
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.
