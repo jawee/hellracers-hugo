@@ -1,5 +1,5 @@
 ---
 name: Jonas Bodin
-image: /drivers/forare_utan_bild.jpg
+image: /drivers/jonas-bodin.jpg
 irating: 6000
 ---

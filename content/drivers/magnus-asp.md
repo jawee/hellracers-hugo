@@ -1,5 +1,5 @@
 ---
 name: Magnus Asp
-image: /drivers/forare_utan_bild.jpg
+image: /drivers/magnus-asp.jpg
 irating: 4000
 ---

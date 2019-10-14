@@ -1,6 +1,6 @@
 ---
 name: Stellan Lindeberg
-image: /drivers/forare_utan_bild.jpg
+image: /drivers/stellan-lindeberg.jpg
 irating: 4000
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.
