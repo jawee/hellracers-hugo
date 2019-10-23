@@ -1,6 +1,6 @@
 ---
 name: Andreas Olsson
-image: /drivers/andreas-olsson.jpg
+image: /drivers/andreas_olsson.jpg
 irating: 2993
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.

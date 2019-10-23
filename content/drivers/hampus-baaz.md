@@ -1,6 +1,6 @@
 ---
 name: Hampus Baaz
-image: /drivers/forare_utan_bild.jpg
+image: /drivers/hampus-baaz.jpg
 irating: 4000
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.
