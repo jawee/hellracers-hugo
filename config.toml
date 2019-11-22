@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://hellracers.se/"
 languageCode = "en-us"
 title = "Hellracers"
 theme = "hellracers"
@@ -38,13 +38,13 @@ theme = "hellracers"
 
     [[menu.social]]
         name = "Facebook"
-        url = "https://facebook.com"
+        url = "https://facebook.com/hellracers.se"
         weight = -110
     
-    [[menu.social]]
-        name = "Twitter"
-        url = "https://twitter.com"
-        weight = -100
+    #[[menu.social]]
+    #    name = "Twitter"
+    #    url = "https://twitter.com"
+    #    weight = -100
 
     [[menu.social]]
         name = "Instagram"
