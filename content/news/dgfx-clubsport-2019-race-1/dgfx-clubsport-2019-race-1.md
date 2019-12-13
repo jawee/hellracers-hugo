@@ -5,6 +5,7 @@ draft: false
 image: /news/dgfx-clubsport-2019-race-1/dgfx-clubsport-2019-race-1.png
 ---
 ![alt text](/news/dgfx-clubsport-2019-race-1/dgfx-clubsport-2019-race-1.png)
+
 Another league has now had its first race of the season, the DGFX Clubsport series. It is a multi-class league featuring the Porsche 911 GT3 Cup car, the new-to-iRacing Audi RS3 LMS TCR car and the Mazda MX-5 Cup. It's an endurance league with races ranging from 2.4 hours to 4 hours of length. Hellracers are competing with a 911 GT3 Cup car, to get some variation from our GTE and LMP1 races.
 
 This first race took place at Okayama, one of the tracks that are included for free in the iRacing subscription. It's a track that includes most of what you want in a track, some sweeping corners that you can take in higher speeds, a back-straight followed by a hair-pin inviting to overtakes, a technical section with low speed corners and some elevation changes to mix it up.
