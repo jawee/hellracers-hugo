@@ -1,0 +1,11 @@
+---
+title: "DGFX Race 6 - 10 hours of Barcelona-Catalunya"
+date: 2020-02-01T16:52:30+01:00
+draft: false
+image: /news/dgfx-2019-race-6/DGFX2019_R6.png
+---
+![alt text](/news/dgfx-2019-race-6/DGFX2019_R6.png)
+
+Final race in the DGFX endurance series! For both cars, the championship title was within reach so it would all come down to the last 10 hour race of the series. The LMP1 car started off well, starting from pole and increasing the lead to a comfortable 30 second gap to second place. A few hours into the race, things started to go south after a miscalculation in the fuel strategy and the car ended up two laps behind the leader. Even though the team, this time consisting of all three LMP1 drivers Hampus Baaz, Andreas Olsson and Magnus Vallström, put in great laps, such a gap is hard to close and the car ended up in fifth place in the end. The championship results are yet to be confirmed.
+
+The GTE car did quite the opposite journey. Although it started in second place, it fell down to last place after a driver mistake just two laps into the race. During the same incident, the car collected damage leading to reduced speed and what before the race felt like a certain top position did now feel far away. But after some great driving and solid pit strategies, the GTE car led the race with just 15 minutes to go. Since the main competitor, Heusinkveld, had issues and were in 11th place, things started looking good for the championship. Then, things fell apart quickly; the car in second place with its fresh tires overtook our car, the damage still being a factor for our car with the reduced top speed. Just minutes later, the GTE cars in fourth and fifth place collided leaving one of them in the pits with severe damage. Therefore, the Heusinkveld could overtake that car still standing in the pits, and our championship title slipped out of our hands (yet to be confirmed, though). Given the early incident, the second place that the car finished in felt like a decent result but the driver team, Jonas Bodin, Stellan Lindeberg and Wilhelm Wiberg, felt that they could do better.
