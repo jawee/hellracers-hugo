@@ -48,7 +48,7 @@ theme = "hellracers"
 
     [[menu.social]]
         name = "Instagram"
-        url = "https://instagram.com/hellracers_sweden"
+        url = "https://instagram.com/hellracers.se"
         weight = -90
     
     [[menu.partners]]
