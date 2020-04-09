@@ -1,5 +1,5 @@
 ---
-title: " DGFX Clubsport series Race 5 - Heavy traffic at Phillip Island"
+title: "DGFX Clubsport series Race 5 - Heavy traffic at Phillip Island"
 date: 2020-03-07T09:04:23+01:00
 draft: false
 image: /news/dgfx-clubsport-2019-race-5/dgfx-clubsport-2019-race-5.png
