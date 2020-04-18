@@ -32,7 +32,6 @@ function successFunction(data) {
     data.data.forEach(function(stream) {
       liveChannels.push(stream.user_name);
     });
-    console.log(liveChannels);
       
     liveChannels.forEach(function(username) {
         var target = '#'+username.toLowerCase() + ' .status';
@@ -64,7 +63,11 @@ $(document).ready(function() {
     ];
 
     createRows(channelsMap);
-    var usernames = ['jawee15', 'hell_wille', 'dan_suzuki', 'magnus_vallstrom', 'hell_jocke', 'nilsinhx'];
+    var usernames = [];
+    channelsMap.forEach(function(obj) {
+    	usernames.push(obj.twitch);
+    });
+    
     var clientId = '4cxjxen0eq8o05p15wjkouz8s5yogw';
     
     //https://api.twitch.tv/helix/streams?user_login=jawee15
