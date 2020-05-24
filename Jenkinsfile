@@ -10,6 +10,12 @@ pipeline {
         checkout([
           $class: 'GitSCM',
           branches: [[name: 'master']],
+          extensions: [[$class: 'SubmoduleOption',
+                        disableSubmodules: false,
+                        parentCredentials: false,
+                        recursiveSubmodules: true,
+                        reference: '',
+                        trackingSubmodules: false]],
           userRemoteConfigs: [[
             url: 'https://github.com/jawee/hellracers-hugo.git',
             credentialsId: '',
@@ -20,6 +26,7 @@ pipeline {
     stage('Build') {
       steps {
         echo ">> Build application"
+        sh "hugo -b https://beta.hellracers.se"
       }
     }
     stage('Deploy beta') {
