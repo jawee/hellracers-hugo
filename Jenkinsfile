@@ -23,13 +23,13 @@ pipeline {
         ])
       }
     }
-    stage('Build') {
+    stage('Build Beta') {
       steps {
         echo ">> Build application"
         sh "hugo -b https://beta.hellracers.se"
       }
     }
-    stage('Deploy beta') {
+    stage('Deploy Beta') {
       steps {
         sshagent(["linode"]) {
           sh 'rsync -r -e "ssh -o StrictHostKeyChecking=no" "$WORKSPACE/public/" figge@jawee.se:/home/figge/public/beta.hellracers.se/public_html'
@@ -41,13 +41,21 @@ pipeline {
         input message: 'Do you want to release this build?',
               parameters: [[$class: 'BooleanParameterDefinition',
                             defaultValue: false,
-                            description: 'Ticking this box will do a release',
+                            description: 'Ticking this box will deploy to hellracers.se',
                             name: 'Release']]
       }
     }
-    stage('Continued') {
+    stage('Build Live') {
       steps {
-        echo ">> Did Continue"
+        echo ">> Build application"
+        sh "hugo -b https://hellracers.se"
+      }
+    }
+    stage('Deploy Live') {
+      steps {
+        sshagent(["linode"]) {
+          sh 'rsync -r -e "ssh -o StrictHostKeyChecking=no" "$WORKSPACE/public/" figge@jawee.se:/home/figge/public/hellracers.se/public_html'
+        }
       }
     }
   }
