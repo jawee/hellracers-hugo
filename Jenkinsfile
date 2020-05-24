@@ -38,8 +38,15 @@ pipeline {
     }
     stage('Test before deploying live') {
       steps {
-        def userInput = input(message: 'Wait for test', parameters: [choice(choices: ['No', 'Yes'], description: '', name: 'Should be deployed to live')])
-        echo userInput
+         def userInput = input(id: 'Proceed1', message: 'Promote build?', parameters: [[$class: 'BooleanParameterDefinition', defaultValue: true, description: '', name: 'Please confirm you agree with this']])
+            echo 'userInput: ' + userInput
+
+            if(userInput == true) {
+                // do action
+            } else {
+                // not do action
+                echo "Action was aborted."
+            }
       }
     }
   }
