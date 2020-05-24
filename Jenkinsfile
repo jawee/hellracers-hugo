@@ -36,6 +36,11 @@ pipeline {
         }
       }
     }
+    stage('Test before deploying live') {
+      steps {
+        input message: 'Wait for test', parameters: [choice(choices: ['No', 'Yes'], description: '', name: 'Should be deployed to live')]
+      }
+    }
   }
   /* Cleanup workspace */
     post {
