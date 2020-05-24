@@ -31,7 +31,7 @@ pipeline {
     }
     stage('Deploy beta') {
       steps {
-        sshagent(["figge"]) {
+        sshagent(["linode"]) {
           sh 'rsync -r -e "ssh -o StrictHostKeyChecking=no" "$WORKSPACE/public/" figge@jawee.se:/home/figge/public/beta.hellracers.se/public_html'
         }
       }
