@@ -1,3 +1,5 @@
+properties([pipelineTriggers([githubPush()])])
+
 pipeline {
   agent any
   
@@ -26,6 +28,12 @@ pipeline {
       }
     }
   }
+  /* Cleanup workspace */
+    post {
+       always {
+           deleteDir()
+       }
+   }
 
 } 
 
