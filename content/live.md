@@ -72,7 +72,7 @@ $(document).ready(function() {
 
     $.ajax({
         type: "POST",
-        url: 'http://twitch.hellracers.se',
+        url: 'https://twitch.hellracers.se',
         data: data,
         success: successFunction,
         contentType: "application/json; charset=utf-8",
