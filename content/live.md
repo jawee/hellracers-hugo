@@ -26,7 +26,6 @@ Our twitch streams
 
 <script type="text/javascript">
 function successFunction(data) {
-    console.log(data);
     var liveChannels = [];
     
     data.data.forEach(function(stream) {
@@ -68,26 +67,16 @@ $(document).ready(function() {
     channelsMap.forEach(function(obj) {
     	usernames.push(obj.twitch);
     });
-    
-    var clientId = '4cxjxen0eq8o05p15wjkouz8s5yogw';
-    
-    //https://api.twitch.tv/helix/streams?user_login=jawee15
-    var url = 'https://api.twitch.tv/helix/streams?user_login=';
-    var parameterName = 'user_login';
-    
-    usernames.forEach(function(username) {
-        url += username + '&'+parameterName + '=';
-    });
-    
-    url = url.substring(0, url.length-parameterName.length-2);
-    
+
+    var data = JSON.stringify({ channels: usernames});
+
     $.ajax({
-         type: 'GET',
-         headers: {
-             'Client-ID': clientId
-         },
-        url: url,
-      success: successFunction
+        type: "POST",
+        url: 'http://twitch.hellracers.se',
+        data: data,
+        success: successFunction,
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
     });
 
 });
