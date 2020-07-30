@@ -1,6 +1,6 @@
 ---
-name: Andreas Olsson
-image: /drivers/andreas_olsson.jpg
+name: Rickard Karlsson
+image: /drivers/rickard-karlsson.png
 irating: 2993
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.
