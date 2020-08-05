@@ -1,7 +1,7 @@
 ---
 title: "Philip takes second place in the Apex Racing Academy GT4 VRS Super Series"
 date: 2020-08-04T16:59:40+02:00
-draft: true
+draft: false
 image: /news/philip-second-in-apex-racing-academy-gt4-2020/philip-arl.png
 ---
 
