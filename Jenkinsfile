@@ -40,7 +40,7 @@ properties([pipelineTriggers([githubPush()])])
         }
         stage('Deploy Live') {
           when {
-            branch 'development'
+            branch 'master'
           }
           steps {
             sshagent(["linode"]) {
