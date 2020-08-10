@@ -6,7 +6,9 @@ properties([pipelineTriggers([githubPush()])])
       stages {
         /* checkout repo */
         stage('Init submodules') {
-          sh 'git submodule update --init'
+          steps {
+            sh 'git submodule update --init'
+          }
         }
         stage('Build Beta') {
           when {
