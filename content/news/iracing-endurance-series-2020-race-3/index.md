@@ -22,4 +22,5 @@ Anyway, this was all a long-winded way of saying that we got to see a few differ
 
 For us, P3 in top split is still a great result, especially when the car didn’t have as much as a scratch on it when crossing the finish line. Well, we might have to give a shout-out to iRacing’s netcode for that, to be fair we had contact with other cars but nothing major and nothing big enough to scratch our beautiful paint work.
 
-Since this is an official iRacing series, championship points are counted towards individuals and not teams, even though it is a team event. With only one race to go in this series, Magnus tops the overall championship in the GTE class, and now the goal is to bring home that first place! 
+Since this is an official iRacing series, championship points are counted both towards individuals as well as teams. With only one race to go in this series, we top the overall championship in the GTE class both individually and as a team and now the goal is to bring home those first places! 
+
