@@ -1,3 +1,3 @@
 # Hellracers website
 
-## Using Hugo
+Using Hugo
