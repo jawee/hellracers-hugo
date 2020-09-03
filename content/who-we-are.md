@@ -10,4 +10,4 @@ The goal of Hellracers is to always evolve in a positive way, both as a team and
 
 Another goal is to always perform well, both when it comes to the end result but also when it comes to racing fair.
 
-As of today, Hellracers consists of 12 members.
+As of today, Hellracers consists of 13 members.
