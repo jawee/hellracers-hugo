@@ -46,10 +46,10 @@ theme = "hellracers"
         url = "https://facebook.com/hellracers.se"
         weight = -110
     
-    #[[menu.social]]
-    #    name = "Twitter"
-    #    url = "https://twitter.com"
-    #    weight = -100
+    [[menu.social]]
+        name = "Twitter"
+        url = "https://twitter.com/hellracers1"
+        weight = -100
 
     [[menu.social]]
         name = "Instagram"
