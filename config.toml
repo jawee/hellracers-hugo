@@ -48,7 +48,7 @@ theme = "hellracers"
     
     [[menu.social]]
         name = "Twitter"
-        url = "https://twitter.com/hellracers1"
+        url = "https://twitter.com/hellracers_se"
         weight = -100
 
     [[menu.social]]
