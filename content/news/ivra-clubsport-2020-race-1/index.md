@@ -14,5 +14,5 @@ We have qualified two Porsche 911 GT3 Cup cars to this league and it was time to
 
 Well, without going into too much detail since the wounds have yet to heal, the race wasn’t a huge success. Both cars were involved in incidents, there were driver mistakes and all-in-all it was an experience that you try to learn from and move on. Not all races can be successes and the ones you typically learn the most from are the ones where things don’t go as planned.
 
-So, did we finish last and second last? Not even close! P8 and P15 were our finishing positions and while it is not a disaster, it was not what we hoped for. But being the season opener and with several races to go, there is still time to redeem ourselves!
+So, did we finish last and second last? Not even close! P7 and P15 were our finishing positions and while it is not a disaster, it was not what we hoped for. But being the season opener and with several races to go, there is still time to redeem ourselves!
 
