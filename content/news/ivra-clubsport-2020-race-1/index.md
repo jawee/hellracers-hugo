@@ -2,9 +2,9 @@
 title: "You can’t win them all - IVRA Clubsport at Road America"
 date: 2020-10-24T17:02:04+01:00
 draft: false
-image: /news/dgfx-clubsport-2020-race-1/clubsport.jpg
+image: /news/ivra-clubsport-2020-race-1/clubsport.jpg
 ---
-![alt text](/news/dgfx-clubsport-2020-race-1/clubsport.jpg)
+![alt text](/news/ivra-clubsport-2020-race-1/clubsport.jpg)
 
 IVRA Clubsport is a fun league. Not all races can be fun, though. This was one of the less fun, unfortunately.
 
