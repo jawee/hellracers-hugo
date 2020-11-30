@@ -2,9 +2,9 @@
 title: "IVRA Clubsport - Circuit of the Americas"
 date: 2020-11-21T17:02:04+01:00
 draft: false
-image: /news/ivra-clubsport-2020-race-2/clubsport.jpg
+image: /news/ivra-clubsport-2020-race-2/clubsport.png
 ---
-![alt text](/news/ivra-clubsport-2020-race-2/clubsport.jpg)
+![alt text](/news/ivra-clubsport-2020-race-2/clubsport.png)
 
 Time for another IVRA race, this time in the Clubsport series on the COTA track in Texas. A wide track that still provides some challenges for multiclass with its sharp turns and mix of fast and slow sections.
 
