@@ -1,6 +1,6 @@
 ---
 title: "IVRA Clubsport - Circuit of the Americas"
-date: 2020-10-24T17:02:04+01:00
+date: 2020-11-21T17:02:04+01:00
 draft: false
 image: /news/ivra-clubsport-2020-race-2/clubsport.jpg
 ---
