@@ -2,6 +2,7 @@ baseURL = "http://hellracers.se/"
 languageCode = "en-us"
 title = "Hellracers"
 theme = "hellracers"
+og_image = "/img/hellracers-footer-logo.png"
 
 [markup]
   [markup.goldmark]
