@@ -14,4 +14,4 @@ The format with three races in each round where the starting order of race two a
 
 Unfortunately Rickard’s partner in crime in the TCR series, Philip, had too many series ongoing so he had to step down from this one, meaning that the team championship slipped out of our hands. But that only means that we have a reason to come back and try to take home that as well! 
 
-Big thanks to Apex Racing League for a fun season! Big thanks to Apex Racing League for a fun season! And thanks to [Andy Taylor](https://www.flickr.com/photos/groove200/albums/) for the awesome picture!
+Big thanks to Apex Racing League for a fun season! And thanks to [Andy Taylor](https://www.flickr.com/photos/groove200/albums/) for the awesome picture!
