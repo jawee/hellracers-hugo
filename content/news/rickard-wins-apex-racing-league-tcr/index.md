@@ -1,6 +1,6 @@
 ---
 title: "Apex Racing League TCR - Rickard Karlsson takes home the AM win!"
-date: 2020-02-05T16:52:30+01:00
+date: 2020-12-04T16:52:30+01:00
 draft: false
 image: /news/rickard-wins-apex-racing-league-tcr/hellracers_tcr.jpg
 ---
