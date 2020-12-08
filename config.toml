@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Hellracers"
 theme = "hellracers"
 
+
+[params]
+    ogimage = "/img/hellracers-footer-logo.png"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
