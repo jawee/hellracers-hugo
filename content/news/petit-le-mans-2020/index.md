@@ -2,9 +2,9 @@
 title: "Petit Le Mans 2020"
 date: 2020-10-03T16:50:34+01:00
 draft: false
-image: /news/petit-le-mans-2020/petit-lemans-2020-1.jpg
+image: petit-lemans-2020-1.jpg
 ---
-![alt text](/news/petit-le-mans-2020/petit-lemans-2020-2.jpg)
+
 
 Even though the autumn is filled with league racing, we still take time to compete in the iRacing special events. Last weekend, it was the 10 hour race of Petit Le Mans, which in spite of its name is run on the Road Atlanta track in the US. Its real-life counterpart is run under the Weathertech SportsCar Championship organized by IMSA, and the iRacing version also uses the cars normally seen in the IMSA Sportscar Championship on iRacing. That means, except for the GT3 and GTE classes, also the brand new LMP2 car, which was the weapon of choice for Hellracers this time around.
 

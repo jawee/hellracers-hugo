@@ -2,9 +2,9 @@
 title: "DGFX Race 5 - 4 hours of Silverstone"
 date: 2020-01-04T16:52:30+01:00
 draft: false
-image: /news/dgfx-2019-race-5/DGFX2019_R5.png
+image: DGFX2019_R5.png
 ---
-![alt text](/news/dgfx-2019-race-5/DGFX2019_R5.png)
+
 
 In hunt of getting a good chance of the championship title, both cars took place at the starting line of this four hour endurance race on the Silverstone track, newly updated in iRacing to reflect the latest rendition of the track. The second to last race of the season and both cars in second place in the league table meant that all points were really valuable. Well, they always are, but in order to have a good chance on the title it meant that we needed to take points on the overall leaders.
 

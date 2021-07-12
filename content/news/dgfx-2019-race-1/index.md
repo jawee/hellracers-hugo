@@ -2,9 +2,9 @@
 title: "DGFX Race 1 - 4 hours of Watkins Glen"
 date: 2019-09-14
 draft: false
-image: /news/dgfx-2019-race-1/DGFX2019_R1.png
+image: DGFX2019_R1.png
 ---
-![alt text](/news/dgfx-2019-race-1/DGFX2019_R1.png)
+
 
 One of the first goals we set out for as a team was to qualify at least one car for the DGFX Endurance series. It’s a multiclass endurance series with a season that stretches over roughly six months with one race a month and as one of, if not the, biggest amateur leagues in iRacing, it attracts a lot of teams. While the pro teams often look towards leagues as NEO or SCO, there is still a lot of fiercely competitive teams running in the DGFX.
 

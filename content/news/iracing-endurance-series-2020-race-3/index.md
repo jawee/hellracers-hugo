@@ -2,9 +2,9 @@
 title: "iRacing Endurance Series Race 3 - Barcelona"
 date: 2020-08-09T08:09:54+02:00
 draft: false
-image: /news/iracing-endurance-series-2020-race-3/iracing-endurance-series-2020-race-3.png
+image: iracing-endurance-series-2020-race-3.png
 ---
-![alt text](/news/iracing-endurance-series-2020-race-3/iracing-endurance-series-2020-race-3.png)
+
 
 Time to follow up the winning performance at Silverstone with another race in the iRacing Endurance Series, the third out of four races. Once again, the trusty Porsche 911 RSR was the weapon of choice and once again, we were to battle it out over 12 hours with three other car classes. Same old, same old.
 

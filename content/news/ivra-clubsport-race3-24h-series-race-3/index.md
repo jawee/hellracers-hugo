@@ -2,9 +2,9 @@
 title: "Endurance weekend"
 date: 2021-01-10
 draft: false
-image: /news/ivra-clubsport-race3-24h-series-race-3/spa.jpg
+image: spa.jpg
 ---
-![alt text](/news/ivra-clubsport-race3-24h-series-race-3/spa.jpg)
+
 
 Once again, two different endurance series clashed during the weekend with an IVRA Clubsport 4 hour race on Saturday and a 24H SERIES ESPORTS 6 hour race on Sunday. Our two Porsche 911 GT3 Cup cars did a good job at Spa-Francorchamps and our #26 car managed a 6th place in a tough competition, after having run the last stint with some serious fuel saving. The #16 car unfortunately didn’t manage to save enough and had to stop for an extra pit stop, putting them down all the way to 17th place, due to the close field.
 

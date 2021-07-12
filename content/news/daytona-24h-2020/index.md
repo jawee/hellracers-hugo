@@ -2,9 +2,9 @@
 title: "24 hours of Daytona International Speedway"
 date: 2020-01-19T16:50:34+01:00
 draft: false
-image: /news/daytona-24h-2020/D24H_2020.png
+image: D24H_2020.png
 ---
-![alt text](/news/daytona-24h-2020/D24H_2020.png)
+
 
 24 hours of racing is a long time! The way of thinking when it comes to strategy and attitude towards the race and overtaking becomes something completely different. Especially at a track like Daytona, where the long straights gives a massive opportunity for drafting and fuel saving.
 

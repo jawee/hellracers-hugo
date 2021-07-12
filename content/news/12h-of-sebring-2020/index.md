@@ -2,11 +2,11 @@
 title: "iRacing special event - 12 hours of Sebring International Raceway"
 date: 2020-03-14T16:50:34+01:00
 draft: false
-image: /news/12h-of-sebring-2020/sebring-12h.png
+image: sebring-12h.png
 ---
-![alt text](/news/12h-of-sebring-2020/sebring-12h.png)
 
-Time for another of iRacing’s special events, these are endurance races spread out over the year where the normal iRacing safety rating and irating are in effect and are basically treated as a normal iRacing race when it comes to splits, rules, etc. Splits is iRacing’s way to make sure that everyone races someone on their skill level, where your irating is used to divide all the registered teams into splits, where each split drives their own race, independent of the other races that are ongoing at the same time. A special event of this type typically draws a couple of thousand racers and since all cannot compete in the same race, they are divided so that each race has 50-60 racers/teams. This year of 12h Sebring had around 1500 teams participating, and 27 splits in total.
+
+Time for another of iRacing’s special events, these are endurance races spread out over the year where the normal iRacing safety rating and irating are in effect and are basically treated as a normal iRacing race when it comes to splits, rules, etc. Splits is iRacing’s way to make sure that everyone races someone on their skill level, where your irating is used to divide all the registered teams into splits, where each split drives their own race, independent of the other races that are ongoing at the same time. A special event of this type typically draws a couple of thousand racers and since all cannot compete in the same race, they are divided so that each race has 50-60 racersteams. This year of 12h Sebring had around 1500 teams participating, and 27 splits in total.
 
 As many others, this endurance race is a multi-class event, and we were racing in the class with the most fierce competition - the GTE class. The two other classes were the Daytona Prototype class and the GT3 class. Since no one in Hellracers has a really high irating (we are working on it!), this meant that we ended up in - the fairly low - split 6 and 7 with our three cars. However, due to the split system described above, you usually end up with competition around your own skill level.
 

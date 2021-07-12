@@ -2,9 +2,9 @@
 title: "24H SERIES ESPORTS - MAHLE 6H SEBRING"
 date: 2020-11-29
 draft: false
-image: /news/24h-series-2020-race-2/24h.jpg
+image: 24h.jpg
 ---
-![alt text](/news/24h-series-2020-race-2/24h.jpg)
+
 
 
 Second race in the 24H SERIES ESPORTS league took place at Sebring, the track at least partially known for how uneven the race surface is. It tends to be a real test for your sim racing equipment and even though we are racing at home it might be a small workout to do endurance racing here. The Swedish national championship is still running, so in the days leading up to the event our focus was a bit split. Normally, we would spend a number of days with practice and get really used to the track and car combination, especially for this series since we don’t drive the GT4 so much in other series. However, this time around we simply didn’t have enough time to put in the practice that we really wanted, making us a bit nervous about the whole thing.

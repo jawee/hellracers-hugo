@@ -2,9 +2,9 @@
 title: "Petit Le Mans - 10 hours of Road Atlanta"
 date: 2019-10-05T16:50:34+01:00
 draft: false
-image: /news/petit-le-mans-2019/petit-lemans-2019.png
+image: petit-lemans-2019.png
 ---
-![alt text](/news/petit-le-mans-2019/petit-lemans-2019.png)
+
 
 On iRacing, a number of special events are arranged each year where teams, or solo racers, compete in endurance racing. These are official events, meaning that the normal split mechanisms are in place, and the races affects your iRating, a concept in iRacing to put racers with equal speed in races together.
 

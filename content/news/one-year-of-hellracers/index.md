@@ -2,10 +2,10 @@
 title: "One Year of Hellracers"
 date: 2020-06-11T08:09:54+02:00
 draft: false
-image: /news/one-year-of-hellracers/one-year-of-hellracers.png
+image: one-year-of-hellracers.png
 ---
 
-![alt text](/news/one-year-of-hellracers/one-year-of-hellracers.png)
+
 
 One year ago, the team Hellracers officially started after a few weeks of recruiting and preparation. We managed to bring some of the top sim-racing talent in Sweden together into one team and we aimed to drive together, improve together and have some fun together. Even though it is important to set up goals and achieve things, it’s not worth as much if we don’t have fun on the way there. We strongly believe that expanding a team too fast will create subgroups and the overall team feeling might get lost, which is why we have expanded quite slowly and found drivers who we think fit the team both with their skill level but also that will be part of the group and strengthen the team feeling.
 

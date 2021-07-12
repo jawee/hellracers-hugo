@@ -2,9 +2,9 @@
 title: "IVRA Clubsport at Suzuka"
 date: 2021-02-06T17:02:04+01:00
 draft: false
-image: /news/ivra-clubsport-2020-race-5/clubsport.jpg
+image: clubsport.jpg
 ---
-![alt text](/news/ivra-clubsport-2020-race-5/clubsport.jpg)
+
 
 We have now passed the halfway mark of the Clubsport series and the next to last race took place at Suzuka over 2.4 hours. So far, the races have more often than not involved some events that put our cars a bit further down the list than what we want, either by our own or other cars’ mistakes. This race started out in a very positive way, with our cars gridding up in P3 and P4 after a good qualifying session, and obviously having a competitive pace for this round.
 

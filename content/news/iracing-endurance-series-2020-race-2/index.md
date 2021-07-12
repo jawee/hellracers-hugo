@@ -2,9 +2,9 @@
 title: "iRacing Endurance Series Race 2 - Silverstone"
 date: 2020-06-27T08:09:54+02:00
 draft: false
-image: /news/iracing-endurance-series-2020-race-2/iracing-endurance-series-2020-race-2.png
+image: iracing-endurance-series-2020-race-2.png
 ---
-![alt text](/news/iracing-endurance-series-2020-race-2/iracing-endurance-series-2020-race-2.png)
+
 
 After a disastrous first race in this series, we went into the second race with lowered expectations. This time, 12 hours at Silverstone was the plan and once again we started in the GTE class with our Porsche 911 RSR. However, since summer means that other important things except sim racing occupy people’s minds we only had enough team members available to run one car.
 

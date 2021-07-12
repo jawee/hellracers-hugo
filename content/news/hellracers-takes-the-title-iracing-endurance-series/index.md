@@ -2,9 +2,9 @@
 title: "Hellracers takes the title - iRacing Endurance Series"
 date: 2020-10-17T16:50:34+01:00
 draft: false
-image: /news/hellracers-takes-the-title-iracing-endurance-series/ies.png
+image: ies.png
 ---
-![alt text](/news/hellracers-takes-the-title-iracing-endurance-series/ies.png)
+
 
 That’s right, over four 12 hour races, we came out on top in the GTE class! A great final showing, where five of our drivers shared the BMW M8 GTE car and drove it over the finish line in second place, securing the overall title with a wide margin to second place in the table. 
 

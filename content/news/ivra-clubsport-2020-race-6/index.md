@@ -2,11 +2,11 @@
 title: "IVRA Clubsport at Sebring"
 date: 2021-03-06T17:02:04+01:00
 draft: false
-image: /news/ivra-clubsport-2020-race-6/clubsport.jpeg
+image: clubsport.jpeg
 ---
-![alt text](/news/ivra-clubsport-2020-race-6/clubsport.jpeg)
 
-It was time for the season finale in the IVRA Clubsport league 20/21! On paper, our #26 car had a theoretical chance of taking home the championship but that was mostly on paper.. For that to happen, several strong teams had to have a really bad day and the focus was not on that chance but rather on bringing home a good result for the day.
+
+It was time for the season finale in the IVRA Clubsport league 2021! On paper, our #26 car had a theoretical chance of taking home the championship but that was mostly on paper.. For that to happen, several strong teams had to have a really bad day and the focus was not on that chance but rather on bringing home a good result for the day.
 
 The cars gridded P4 and P6 after a good qualifying session and the race started … and went to full course caution almost immediately. And started, and went to caution. And so it continued with a third caution as well. The first three cautions took place within the first hour of the race and we were worried that this would be a race spent more behind the pace car than actually racing.
 

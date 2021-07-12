@@ -2,9 +2,9 @@
 title: "IVRA Endurance finale at Motegi"
 date: 2021-04-10
 draft: false
-image: /news/ivra-endurance-2020-race-6/ivra.jpeg
+image: ivra.jpeg
 ---
-![alt text](/news/ivra-endurance-2020-race-6/ivra.jpeg)
+
 
 This year’s final race in the IVRA Endurance league took place at Motegi, a track that is not run so often in the official leagues on the iRacing service. A 10 hour race with a total of 150 points in play for the winner would determine the final standings. None of our cars had a chance bigger than pure theoretical (as in, full points for us and no points for the competitors) so the goal of the race was more to end on a high note rather than competing for the championship.
 

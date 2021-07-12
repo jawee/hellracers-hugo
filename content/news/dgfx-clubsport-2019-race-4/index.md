@@ -2,9 +2,9 @@
 title: "DGFX Clubsport series Race 4 - Yet another race at Catalunya"
 date: 2020-02-15T09:04:23+01:00
 draft: false
-image: /news/dgfx-clubsport-2019-race-4/dgfx-clubsport-2019-race-4.png
+image: dgfx-clubsport-2019-race-4.png
 ---
-![alt text](/news/dgfx-clubsport-2019-race-4/dgfx-clubsport-2019-race-4.png)
+
 
 What, Catalunya again?! Yes, unfortunately all series and leagues ended up at Catalunya over the span of just a couple of weeks but the Clubsport series should be the last start on that track for some time. So it was just to buckle up and focus on the mission - to bring Hellracers our second win in the Clubsport series. Since this was a 4 hour race, more points were on the line than the 2.4 hour races, so of course a win is even more valuable for the championship.
 

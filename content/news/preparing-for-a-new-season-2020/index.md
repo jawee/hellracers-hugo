@@ -2,10 +2,10 @@
 title: "Preparing for a new season"
 date: 2020-09-12T08:09:54+02:00
 draft: false
-image: /news/preparing-for-a-new-season-2020/preparing-for-a-new-season.png
+image: preparing-for-a-new-season.png
 ---
 
-![alt text](/news/preparing-for-a-new-season-2020/preparing-for-a-new-season.png)
+
 
 The big season 4 update has just been released on iRacing and everyone is currently busy with trying out the many new features, cars and tracks that were included. For many in our team, maybe the most important update was the new Dallara P217, an LMP2 car that will be used in several official series as well as endurance leagues. 
 
