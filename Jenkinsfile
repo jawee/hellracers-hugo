@@ -7,7 +7,8 @@ pipeline {
       /* checkout repo */
       stage('Init submodules') {
         steps {
-          sh 'git submodule update --init'
+          //sh 'git submodule update --init'
+          echo ">> No more submodules"
         }
       }
       stage('Build Beta') {
