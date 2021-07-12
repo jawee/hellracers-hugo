@@ -2,9 +2,9 @@
 title: "IVRA Endurance at Virginia International Raceway"
 date: 2021-02-20
 draft: false
-image: /news/ivra-endurance-2020-race-5/ivra.jpg
+image: ivra.jpg
 ---
-![alt text](/news/ivra-endurance-2020-race-5/ivra.jpg)
+
 
 For most of us in the team, this is the second season in the IVRA Endurance league. Last year, we participated with a LMP1 car and a GTE car and managed P2 overall in both classes. But in that entire season, and including the current season, we only have one race win. Until now! Last weekend at VIR, Stellan and Philip did an excellent race and managed to take home the win in their #19 LMP2 car! Over the line, they had 50 seconds to the next car, really impressive given the tough competition in this year’s lineup.
 

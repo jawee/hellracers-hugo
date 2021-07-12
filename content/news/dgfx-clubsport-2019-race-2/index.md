@@ -2,9 +2,9 @@
 title: "DGFX Clubsport series Race 2 - Humbling experience at Brands Hatch"
 date: 2019-12-07T09:04:23+01:00
 draft: false
-image: /news/dgfx-clubsport-2019-race-2/dgfx-clubsport-2019-race-2.png
+image: dgfx-clubsport-2019-race-2.png
 ---
-![alt text](/news/dgfx-clubsport-2019-race-2/dgfx-clubsport-2019-race-2.png)
+
 
 Time for race 2 in the DGFX Clubsport series! This race was scheduled just a few days after one of the four yearly major patches from iRacing. This time around, our car in the series, the Porsche GT3 Cup car got a major update on several parts, but most importantly the tire model. Jonas Bodin and Hampus Baaz, our two pilots for the race, spent the week practicing and tried to get accustomed to the new feeling of the car. Once Saturday came, it was the end of practice and time to get serious!
 

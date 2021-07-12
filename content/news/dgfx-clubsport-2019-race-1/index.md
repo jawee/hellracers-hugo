@@ -2,9 +2,9 @@
 title: "DGFX Clubsport series Race 1 - The miracle at Okayama"
 date: 2019-11-16T17:02:04+01:00
 draft: false
-image: /news/dgfx-clubsport-2019-race-1/dgfx-clubsport-2019-race-1.png
+image: dgfx-clubsport-2019-race-1.png
 ---
-![alt text](/news/dgfx-clubsport-2019-race-1/dgfx-clubsport-2019-race-1.png)
+
 
 Another league has now had its first race of the season, the DGFX Clubsport series. It is a multi-class league featuring the Porsche 911 GT3 Cup car, the new-to-iRacing Audi RS3 LMS TCR car and the Mazda MX-5 Cup. It's an endurance league with races ranging from 2.4 hours to 4 hours of length. Hellracers are competing with a 911 GT3 Cup car, to get some variation from our GTE and LMP1 races.
 
@@ -22,4 +22,4 @@ Looking back in the field, the Gold Racing Team Porsche looked strong and had a 
 
 Congratulations to the Gold Racing Team for a well fought race and a second place and to the Racekraft E-sports Slide car for their third place in the GT3 Cup field! Congratulations also to the Mivano Simracing Team for an impressive P1-P2 in the MX-5 class and to Alpinestars Geodesic Racing for the win in the very tight and competitive TCR class! See you all at Brands Hatch in December!
 
-If you want to see the racing action yourself, [take a look at the broadcast from iRacing eSports Network at this link](https://www.youtube.com/watch?v=y1pv1YkeGC0).
+If you want to see the racing action yourself, [take a look at the broadcast from iRacing eSports Network at this link](https:www.youtube.comwatch?v=y1pv1YkeGC0).

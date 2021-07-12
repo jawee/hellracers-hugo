@@ -2,9 +2,9 @@
 title: "What a weekend!"
 date: 2021-03-21T16:48:58+01:00
 draft: false
-image: /news/what-a-weekend-ivra-endurance-24h-series/NEO_Barcelona.jpg
+image: NEO_Barcelona.jpg
 ---
-![alt text](/news/what-a-weekend-ivra-endurance-24h-series/NEO_Barcelona.jpg)
+
 
 With several big endurance leagues going on at the same time, it is inevitable that they sometimes end up on the same weekend. This weekend, we had IVRA Endurance on Saturday with 6 hours on Imola and 24H SERIES Esports 6 hours of Barcelona-Catalunya on Sunday. Since we run three cars in IVRA Endurance, this meant that most of the team had to step up and do some racing! Fortunately, we have a nice width in the team and moreover, most drivers can switch cars and perform well also in the cars that they drive more seldom.
 

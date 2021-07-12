@@ -2,9 +2,9 @@
 title: "DGFX Clubsport series Race 6 - Season finale at Interlagos"
 date: 2020-04-04T09:04:23+01:00
 draft: false
-image: /news/dgfx-clubsport-2019-race-6/dgfx-clubsport-2019-race-6.png
+image: dgfx-clubsport-2019-race-6.png
 ---
-![alt text](/news/dgfx-clubsport-2019-race-6/dgfx-clubsport-2019-race-6.png)
+
 
 It all came down to this - a small lead in the championship but the guys in second place, Helimedia, had proven before that they had a really high pace when they wanted to. 4 hours at Interlagos would decide which team ended up as overall winners in the DGFX Clubsport series, and we put Jonas and Marcus as pilots of our 911 Cup car. No one in the team really drives the 911 Cup in any other series, so it’s always a few days of just getting up to speed again in the car before each race. However, Interlagos is a track that is fairly common in official series so it was more getting used to the car on an already known track.
 

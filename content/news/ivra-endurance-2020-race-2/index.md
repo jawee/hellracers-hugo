@@ -2,9 +2,9 @@
 title: "IVRA Endurance - Pacing at Phillip Island"
 date: 2020-11-07
 draft: false
-image: /news/ivra-endurance-2020-race-2/ivra-phillip.png
+image: ivra-phillip.png
 ---
-![alt text](/news/ivra-endurance-2020-race-2/ivra-phillip.png)
+
 
 Race two of this season’s IVRA Endurance took place at Phillip Island, a fun Australian track with a lot of fast, sweeping corners. We had done our practice and positioned our three cars on the starting grid with a good feeling. The qualification round went ok for all three cars, no pole positions but in the upper part of the field which is usually all that matters for endurance racing. As the race progressed, things started to look good. All three cars were in contention for a good finish, and apart from some small contacts with other cars on the narrow track, the cars were in good shape.
 

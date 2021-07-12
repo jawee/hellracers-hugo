@@ -2,9 +2,9 @@
 title: "IVRA Endurance - 12 hours at Spa-Francorchamps"
 date: 2020-10-10
 draft: false
-image: /news/ivra-endurance-2020-race-1/ivra_spa.jpg
+image: ivra_spa.jpg
 ---
-![alt text](/news/ivra-endurance-2020-race-1/ivra_spa.jpg)
+
 
 First race for the season in the IVRA Endurance League is now completed. As always there’s a lot of nerves in the hours and minutes leading up to the race. That’s one part that makes sim racing so much fun, the team has prepared for this for weeks, everything is in place to make the race as successful as we can manage but it all boils down to keeping the focus and having the pace when it counts. The pressure of driving fast while managing traffic and avoiding race-ending mistakes makes most of the drivers in the team feel nervous before the race. That nervousness is probably a good thing though, it’s a sign that the race means something and that we all want to perform well in the race.
 

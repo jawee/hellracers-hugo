@@ -2,9 +2,9 @@
 title: "DGFX Race 3 - 4 hours of Detroit Grand Prix at Belle Isle"
 date: 2019-11-09T16:52:30+01:00
 draft: false
-image: /news/dgfx-2019-race-3/DGFX2019_R3.png
+image: DGFX2019_R3.png
 ---
-![alt text](/news/dgfx-2019-race-3/DGFX2019_R3.png)
+
 
 For the third race of the DGFX season, we went to a slightly more unconventional track for multiclass racing. The Belle Isle track is a street track, taking place on the streets of the island in Detroit. Street track means a lot of walls around the track, often tight corners and a track surface that is not as smooth as the tracks usually are. The walls mean that any accident is often followed by more accidents, as the cars have nowhere to go and bounces back on track. The bumpy street surface is not something the LMP1 cars typically race on, as they are built for smooth tracks with very little ground clearance and aerodynamics that is dependent on that the car is close to the ground.
 

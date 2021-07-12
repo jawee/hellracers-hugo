@@ -2,9 +2,9 @@
 title: "DGFX Race 2 - 6 hours of Circuit of the Americas"
 date: 2019-10-12T16:51:43+01:00
 draft: false
-image: /news/dgfx-2019-race-2/DGFX2019_R2.png
+image: DGFX2019_R2.png
 ---
-![alt text](/news/dgfx-2019-race-2/DGFX2019_R2.png)
+
 
 Just one week after the Petit Le Mans, it was time for the second race of the season in the DGFX league. Moving from the narrow Watkins Glen to the much wider Circuit of the Americas (COTA) meant that a very different type of race was to be expected. The wide run-off zones of COTA makes it possible for a crashed car to limp back to the pits, or a tow zone, without disturbing the ongoing race, meaning that the need for pace car is very much reduced.
 

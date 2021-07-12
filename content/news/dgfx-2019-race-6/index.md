@@ -2,9 +2,9 @@
 title: "DGFX Race 6 - 10 hours of Barcelona-Catalunya"
 date: 2020-02-01T16:52:30+01:00
 draft: false
-image: /news/dgfx-2019-race-6/DGFX2019_R6.png
+image: DGFX2019_R6.png
 ---
-![alt text](/news/dgfx-2019-race-6/DGFX2019_R6.png)
+
 
 Final race in the DGFX endurance series! For both cars, the championship title was within reach so it would all come down to the last 10 hour race of the series. The LMP1 car started off well, starting from pole and increasing the lead to a comfortable 30 second gap to second place. A few hours into the race, things started to go south after a miscalculation in the fuel strategy and the car ended up two laps behind the leader. Even though the team, this time consisting of all three LMP1 drivers Hampus Baaz, Andreas Olsson and Magnus Vallström, put in great laps, such a gap is hard to close and the car ended up in fifth place in the end. The championship results are yet to be confirmed.
 

@@ -2,9 +2,9 @@
 title: "DGFX Clubsport series Race 3 - Crash avoidance at Mosport"
 date: 2020-01-11T09:04:23+01:00
 draft: false
-image: /news/dgfx-clubsport-2019-race-3/dgfx-clubsport-2019-race-3.png
+image: dgfx-clubsport-2019-race-3.png
 ---
-![alt text](/news/dgfx-clubsport-2019-race-3/dgfx-clubsport-2019-race-3.png)
+
 
 Time for the third race of the Clubsport series and to take on the challenging curves of the Canadian Tire Motorsports Park with the added difficulty of managing the intense traffic. Marcus Simonsson and Hampus Baaz took on the challenge to pilot the 911 GT3 Cup with Hellracers’ colors on it, to take revenge on the last race where the car said hello to the barriers surrounding the Brands Hatch circuit. 
 

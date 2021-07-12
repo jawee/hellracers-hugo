@@ -2,9 +2,9 @@
 title: "SCO - 6 hours of the Glen"
 date: 2020-05-31T16:50:34+01:00
 draft: false
-image: /news/sco-6-hours-of-the-glen-2020/sco-6-hours-of-the-glen-2020.png
+image: sco-6-hours-of-the-glen-2020.png
 ---
-![alt text](/news/sco-6-hours-of-the-glen-2020/sco-6-hours-of-the-glen-2020.png)
+
 
 Since we don’t have any ongoing leagues or too many commitments, when SCO invited teams to their 6 hours of the Glen it sounded like a great event to get some serious racing. We joined with two GTE cars and since the Ford GT GTE at the moment is hard to beat in endurance, we chose it as our car for the event.
 

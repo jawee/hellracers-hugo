@@ -2,12 +2,12 @@
 title: "First race in 24H SERIES Esports powered by VCO"
 date: 2020-10-25
 draft: false
-image: /news/24h-series-2020-race-1/24h.jpg
+image: 24h.jpg
 ---
-![alt text](/news/24h-series-2020-race-1/24h.jpg)
 
 
-Time for a new league! We have been wanting to participate in this league for quite some time, and we were really happy to secure our spot for the 2020/2021 season. As always with a new league, it’s hard to know what to expect and how you will stand pace-wise compared to the competition but we knew that there was going to be some tough competition.
+
+Time for a new league! We have been wanting to participate in this league for quite some time, and we were really happy to secure our spot for the 20202021 season. As always with a new league, it’s hard to know what to expect and how you will stand pace-wise compared to the competition but we knew that there was going to be some tough competition.
 
 The league is yet another multi-class endurance league, which is something we appreciate. It gives the team something to strive for together and the multi-class aspect usually brings some extra elements into the racing. The four classes are GT3, Porsche 911 GT3 Cup, GT4 and TCR. We race this season in a GT4 car, the choice falling on the Porsche Cayman GT4 which we feel slightly more comfortable with than the BMW M4 GT4.
 

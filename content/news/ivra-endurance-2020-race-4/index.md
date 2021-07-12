@@ -2,9 +2,9 @@
 title: "IVRA Endurance at Mid-Ohio"
 date: 2021-01-16
 draft: false
-image: /news/ivra-endurance-2020-race-4/ivra.jpg
+image: ivra.jpg
 ---
-![alt text](/news/ivra-endurance-2020-race-4/ivra.jpg)
+
 
 Another short and narrow track in the IVRA Endurance series! 4 hours on the twisty Mid-Ohio track was seen before-hand as a daunting task, but in general, the race turned out to bring some great racing. As always in the Endurance league, we put one BMW GTE and two LMP2s on the starting line.
 

@@ -2,9 +2,9 @@
 title: "IVRA Double header at Barber"
 date: 2020-12-13
 draft: false
-image: /news/ivra-double-header-2020/ivra-barber.jpg
+image: ivra-barber.jpg
 ---
-![alt text](/news/ivra-double-header-2020/ivra-barber.jpg)
+
 
 Both IVRA leagues that we compete in, Clubsport and Endurance, went to Barber this weekend for one race each of just under three hours. Having two cars in Clubsport and three in the Endurance league meant that most drivers in the team had to participate to fill the seats. Fortunately, almost all could focus on only one of the races with Rickard being the exception who had to fill one seat in our Porsche Cup on Saturday and then drive the GTE car on Sunday.
 

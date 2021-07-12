@@ -2,9 +2,9 @@
 title: "Two years of Hellracers!"
 date: 2021-06-11T00:48:58+01:00
 draft: false
-image: /news/two-years-of-hellracers/image.jpg
+image: image.jpg
 ---
-![alt text](/news/two-years-of-hellracers/image.jpg)
+
 
 Another year has passed and today we celebrate two years together as Hellracers! Let’s skip the “in these unprecedented times” for now and just shortly acknowledge that sim racing in general took a big leap forward during last year. We noticed it mostly by the way the competition level rose during the year when more and more people of all skill levels entered the sim racing world. And not only that, the prize money, the level of professionalism and the focus on sim racing from the outside all took a leap forward. Competitions where professional race drivers drove races in the sim racing world took place not only once or twice, but full series was shown on big TV channels. We really enjoyed this increased focus and it made us even more motivated.
 

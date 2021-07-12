@@ -2,9 +2,9 @@
 title: "iRacing Endurance Series Race 1 - Suzuka"
 date: 2020-04-18T16:50:34+01:00
 draft: false
-image: /news/iracing-endurance-series-2020-race-1/iracing-endurance-series-2020-race-1.png
+image: iracing-endurance-series-2020-race-1.png
 ---
-![alt text](/news/iracing-endurance-series-2020-race-1/iracing-endurance-series-2020-race-1.png)
+
 
 Time for a new series! iRacing has introduced a new endurance series, spanning over half a year with four races at some of the biggest circuits on iRacing. Each race consists of 12 hours of multiclass battle where an entirely new combination of cars are being put together on the track at the same time. While the GTE and the GT3 class often find themselves together on the same track, they have never in an official event had the company of the Audi TCR car and the Porsche Cayman GT4 car at the same time. This combination turned out to be a lot of fun, but together with the already quite challenging Suzuka track the hefty amount of traffic became a surprisingly hard task.
 

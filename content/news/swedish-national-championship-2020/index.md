@@ -2,9 +2,9 @@
 title: "Swedish National Championship"
 date: 2020-12-15T16:50:34+01:00
 draft: false
-image: /news/swedish-national-championship-2020/sm.jpg
+image: sm.jpg
 ---
-![alt text](/news/swedish-national-championship-2020/sm.jpg)
+
 
 For a couple of weeks now, several team members have been competing in the official Swedish national championship arranged by Svenska Bilsportförbundet. After three qualification races, each with a semi-final and a final, to determine who were going to compete in the grand finale, now was the time to crown the champion. To be completely honest, none of us aspired for becoming the champion, there’s some fierce competition in Swedish simracing and drivers like Carl Jansson from CoRe Simracing and Robin Östlund from GOTeam Racing are not only fast in general, but they also have way more experience than our drivers in the car that was used in the competition, the Porsche 911 GT3 Cup.
 
