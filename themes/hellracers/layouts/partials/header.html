@@ -1,0 +1,23 @@
+<header class="bg-hellracers-blue">
+    <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-hellracers-blue">
+        <a href="{{ .Site.BaseURL }}" class="navbar-brand" title="{{ .Site.Title }}">
+            <img alt="Hellracers" class="img-fluid" src="/img/hellracers-text-logo.png">
+        </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            {{ with .Site.Menus.main }}
+                <div class="collapse navbar-collapse" id="mainNavbar">
+                    <ul class="navbar-nav">
+                        {{ range . }}
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ .URL | relURL }}">{{ .Name }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                </div>
+            {{ end }}
+        </nav>
+    </div>
+</header>

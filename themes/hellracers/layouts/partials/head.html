@@ -1,0 +1,47 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123285381-2"></script>
+	<script>
+		  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123285381-2');
+</script>
+<title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
+<meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}">
+<meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}">
+<meta property="twitter:image" content="{{ .Site.Params.ogimage | absURL }}">
+<meta property="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}">
+<link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/img/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="https://fonts.googleapis.com/css?family=Bungee|Saira+Semi+Condensed:100,200,300,400,500,600,700,800,900|Share+Tech+Mono&display=swap" rel="stylesheet">
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+{{ $cssbootstrap := resources.Get "css/bootstrap.min.css" }}
+{{ $customcss := resources.Get "css/custom.css" }}
+
+{{ $allcss := slice $cssbootstrap $customcss | resources.Concat "css/vendor.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $allcss.RelPermalink }}" integrity="{{ $allcss.Data.Integrity }}">
+
+
+{{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
+{{ $jquery := resources.Get "js/jquery-3.5.1.min.js" }}
+{{ $customjs := resources.Get "js/custom.js" }}
+{{ $js := slice $jquery $bootstrap $customjs | resources.Concat "js/bundle.js" }}
+
+<script src="{{ $js.RelPermalink }}"></script>

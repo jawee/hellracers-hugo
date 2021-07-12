@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="container" id="content">
+    <main>
+        {{ range .Paginator.Pages }}
+            {{ partial "news/news" .}}
+        {{ end }}
+        {{ partial "pagination.html" . }}
+    </main>
+</div>
+{{ end }}

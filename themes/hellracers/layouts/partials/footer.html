@@ -1,0 +1,41 @@
+<footer>
+    <div class="container">
+        <div class="row">
+        {{ with .Site.Menus.contact }}
+            <nav class="col-sm-2">
+                <ul>
+                    <li class="footer-menu-header">Contact</li>
+                    {{ range . }}
+                        <li><a rel="noreferrer" href="{{ .URL }}" target="_blank">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+        {{ end }}
+        {{ with .Site.Menus.social }}
+            <nav class="col-sm-2">
+                <ul>
+                    <li class="footer-menu-header">Social</li>
+                    {{ range . }}
+                        <li><a rel="noreferrer" href="{{ .URL | relURL }}" target="_blank">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+        {{ end }}
+        {{ with .Site.Menus.partners }}
+            <nav class="col-sm-3">
+                <ul>
+                    <li class="footer-menu-header">Partners</li>
+                    {{ range . }}
+                        <li><a rel="noreferrer" href="{{ .URL | relURL }}" target="_blank">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+        {{ end }}
+        <div class="col-sm-1"></div>
+        <div class="col-sm-2"></div>
+        <div class="col-sm-2">
+            <img alt="hellracers logo" src="/img/hellracers-footer-logo.png" class="img-fluid">
+        </div>
+        </div>
+    </div>
+</footer>
