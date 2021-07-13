@@ -1,5 +1,5 @@
 ---
 name: Magnus Asp
-image: /drivers/magnus-asp.jpg
+image: magnus-asp.jpg
 irating: 4000
 ---

@@ -1,5 +1,5 @@
 ---
 name: Joachim Ljunggren
-image: /drivers/joachim-ljunggren.jpg
+image: joachim-ljunggren.jpg
 irating: 3200
 ---
