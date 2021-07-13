@@ -1,7 +1,5 @@
 <div class="col-6 col-sm-3 driver-item">
-    {{ with .Parent.Resources.GetMatch .Params.Image }}
-    {{ $scaled := .Resize "255x" }}
-    <img src="{{ $scaled.RelPermalink }}">
-    {{ end }}
-    <!-- <p class="driver-list-caption">{{ .Params.Name }}</p> -->
+    {{ $image := .Parent.Resources.GetMatch .Params.Image }}
+    {{ $scaled := $image.Resize "255x" }}
+    <img src="{{ $scaled.RelPermalink }}" alt="{{ .Params.Name }}">
 </div>
