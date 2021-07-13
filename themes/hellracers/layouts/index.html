@@ -16,11 +16,9 @@
 			{{ else }}
 			<div class="carousel-item">
 				{{ end }}
-				{{ with .Resources.ByType "image" }}
-				{{ range . }}
+				{{ range first 1 (.Resources.Match .Params.Image) }}
 				{{ $scaled := .Resize "1680x" }}
 				<img class ="d-block w-100" alt="{{ .Title }}" src="{{ $scaled.RelPermalink }}">
-				{{ end }}
 				{{ end }}
 				<div class="carousel-caption d-none d-block">
 					<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>

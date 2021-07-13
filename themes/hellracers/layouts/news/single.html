@@ -5,11 +5,9 @@
             <h1>{{ .Title }}</h1>
             <time>Posted on {{ .Date.Format "January 2, 2006" }}</time>
             <div>
-                {{ with .Resources.ByType "image" }}
-                {{ range . }}
+                {{ range first 1 (.Resources.Match .Params.Image) }}
                 {{ $scaled := .Resize "1110x" }}
                 <img src="{{ $scaled.RelPermalink }}" alt="{{ .Title }}">
-                {{ end }}
                 {{ end }}
                 {{ .Content }}
             </div>

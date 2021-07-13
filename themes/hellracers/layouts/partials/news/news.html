@@ -2,7 +2,8 @@
     <h1>{{ .Title }}</h1>
     <time>Posted on {{ .Date.Format "January 2, 2006" }}</time>
     <div class="news-content hidden">
-        {{ range first 1 (.Resources.ByType "image") }}
+        {{ .Params.Image }}
+        {{ range first 1 (.Resources.Match .Params.Image )}}
         {{ $scaled := .Resize "1110x" }}
         <img src="{{ $scaled.RelPermalink }}" alt="{{ .Title }}">
         {{ end }}
