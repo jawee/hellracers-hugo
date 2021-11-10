@@ -19,7 +19,7 @@ Next race for us was another IVRA race, this time in the Porsche 992 GT3 Cup car
 
 We finished P8 after all of this, which felt like a disappointment given the pace and that it looked really good for a long time in the race. Again the result shows that besides pure pace, the races are won by managing the traffic and keeping the nose clean. This time, just a few mistakes cost us many lost points.
 
-##### 10 hours of Suzuka - Special event by iRacing
+#### 10 hours of Suzuka - Special event by iRacing
 A few times every year, iRacing runs what they call “special events”. Some of them are sprint races or other events, but most of them are endurance races. What they have in common though, is that they generally gather very many of the iRacing users and the competitions get a lot of attention.
 
 We have been competing in quite a few, but have never really come out on top. But for this year’s 10 hours of Suzuka, that changed! To be honest, we didn’t compete in the most popular time slot, but still we managed to claim victory in the top split of a GT3 endurance race on iRacing, which is not a small feat. After 10 hours of racing, the gap to P2 was only 4 seconds, which is a telling sign that the competition was tight! P1-P4 was really tight all race long and we switched positions back and forth a few times. But when day turned into night, our car put in some awesome stints with good pace and very few mistakes, leading us to overall victory! 
