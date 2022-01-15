@@ -60,7 +60,8 @@ $(document).ready(function() {
         {'twitch': 'hell_jocke', 'name': 'Joachim Ljunggren'},
         {'twitch': 'nilsinhx', 'name': 'Niklas Hjelm'},
         {'twitch': 'hell_bodin', 'name': 'Jonas Bodin'},
-        {'twitch': 'myroadtoiracing', 'name': 'Rickard Karlsson'}
+        {'twitch': 'myroadtoiracing', 'name': 'Rickard Karlsson'},
+        {'twitch': 'witkars', 'name': 'Sebastian Witkarsson'}
     ];
 
     createRows(channelsMap);
