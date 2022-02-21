@@ -164,6 +164,20 @@ footer a:hover {
   margin-right: 5px;
 }
 
+.news-title {
+    line-height: 1;
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+
+.news-time {
+    line-height: 1;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #797c7e;
+    display: block;
+}
+
 @media (max-width: 1200px) {
     .news-content.hidden {
         max-height: 600px;

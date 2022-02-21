@@ -2,14 +2,13 @@
 <div class="container" id="content">
     <main>
         <article>
-            <h1>{{ .Title }}</h1>
-            <time>Posted on {{ .Date.Format "January 2, 2006" }}</time>
             <div>
                 {{ range first 1 (.Resources.Match .Params.Image) }}
                 {{ $scaled := .Resize "1110x" }}
                 <img src="{{ $scaled.RelPermalink }}" class="news-image"  alt="{{ .Title }}">
                 {{ end }}
-                <p></p>
+                <h1 class="news-title">{{ .Title }}</h1>
+                <time class="news-time">Posted on {{ .Date.Format "January 2, 2006" }}</time>
                 {{ .Content }}
             </div>
             <div>

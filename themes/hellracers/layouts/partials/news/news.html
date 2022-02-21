@@ -1,12 +1,11 @@
 <article>
-    <h1>{{ .Title }}</h1>
-    <time>Posted on {{ .Date.Format "January 2, 2006" }}</time>
     <div class="news-content hidden">
         {{ range first 1 (.Resources.Match .Params.Image )}}
         {{ $scaled := .Resize "1110x" }}
         <img src="{{ $scaled.RelPermalink }}" class="news-image" alt="{{ .Title }}">
         {{ end }}
-        <p></p>
+        <h1 class="news-title">{{ .Title }}</h1>
+        <time class="news-time">Posted on {{ .Date.Format "January 2, 2006" }}</time>
         {{ .Content }}
     </div>
     <button class="btn btn-primary read-more-button">Read More</button>
