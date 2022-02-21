@@ -4,8 +4,9 @@
     <div class="news-content hidden">
         {{ range first 1 (.Resources.Match .Params.Image )}}
         {{ $scaled := .Resize "1110x" }}
-        <img src="{{ $scaled.RelPermalink }}" alt="{{ .Title }}">
+        <img src="{{ $scaled.RelPermalink }}" class="news-image" alt="{{ .Title }}">
         {{ end }}
+        <p></p>
         {{ .Content }}
     </div>
     <button class="btn btn-primary read-more-button">Read More</button>
