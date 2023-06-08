@@ -1,0 +1,31 @@
+name: Build and publish
+
+on:
+  push:
+    branch:
+      - 'master'
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Download Hugo 
+      run: "wget https://github.com/gohugoio/hugo/releases/download/v0.113.0/hugo_0.113.0_linux-amd64.deb"
+
+    - name: Install Hugo
+      run: sudo dpkg -i hugo*.deb
+
+    - name: build
+      run: hugo -b ${{ vars.SITE_URL }}
+
+    - name: Install SSH Key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.SSH_KEY }}
+        known_hosts: ${{ secrets.KNOWN_HOSTS }}
+
+    - name: Rsync deploy
+      run: rsync -r -e "ssh -o StrictHostKeyChecking=no" public/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:${{ secrets.REMOTE_PATH }}
