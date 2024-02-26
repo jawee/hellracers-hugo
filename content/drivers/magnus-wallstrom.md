@@ -1,5 +1,5 @@
 ---
 name: Magnus Wallström
-image: magnus-wallstrom.jpg
+image: magnus_wallstrom.jpg
 irating: 3999
 ---

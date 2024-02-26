@@ -1,5 +1,5 @@
 ---
 name: Rickard Karlsson
-image: rickard-karlsson.png
+image: rickard_karlsson.jpg
 irating: 2993
 ---

@@ -1,5 +1,5 @@
 ---
 name: Philip Johansson
-image: philip-johansson.png
+image: philip_johansson.jpg
 irating: 2993
 ---

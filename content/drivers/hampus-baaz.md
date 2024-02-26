@@ -1,5 +1,5 @@
 ---
 name: Hampus Baaz
-image: hampus-baaz.jpg
+image: hampus_baaz.jpg
 irating: 4000
 ---

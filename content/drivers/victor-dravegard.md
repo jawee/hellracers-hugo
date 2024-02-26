@@ -1,6 +1,6 @@
 ---
 name: Victor Dravegård
-image: victor-dravegard.jpg
+image: victor_dravegard.jpg
 irating: 4000
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.

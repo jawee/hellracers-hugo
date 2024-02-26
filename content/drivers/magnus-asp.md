@@ -1,5 +1,5 @@
 ---
 name: Magnus Asp
-image: magnus-asp.jpg
+image: magnus_asp.jpg
 irating: 4000
 ---

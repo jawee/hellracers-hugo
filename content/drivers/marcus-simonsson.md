@@ -1,5 +1,5 @@
 ---
 name: Marcus Simonsson
-image: marcus-simonsson.jpg
+image: marcus_simonsson.jpg
 irating: 4000
 ---

@@ -1,6 +1,6 @@
 ---
 name: Niklas Hjelm
-image: niklas-hjelm.png
+image: niklas_hjelm.jpg
 irating: 2993
 ---
 # One morning, when Gregor Samsa woke from troubled dreams.

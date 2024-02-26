@@ -1,5 +1,5 @@
 ---
 name: Joachim Ljunggren
-image: joachim-ljunggren.jpg
+image: joachim_ljunggren.jpg
 irating: 3200
 ---
